@@ -1,5 +1,28 @@
 # 4K YT Downloader
 
+## Download Instructions - IMPORTANT
+
+Your download may be flagged by Windows SmartScreen or your browser. This is normal for new software. To proceed safely:
+
+1. **Chrome Users**:
+   - Click `Keep` when Chrome flags the download
+   - Or click `⋮` (three dots) → `Keep anyway`
+
+2. **Edge Users**:
+   - Click `...` → `Keep`
+   - Or click `Show more` → `Keep anyway`
+
+3. **SmartScreen Warning**:
+   - Click `More info`
+   - Click `Run anyway`
+  
+##VirusTotal
+
+MD5 9de5092e82da6789633f53fdd2e75a16
+SHA-1 fd301764ce80ac53ebcdb0ab126c5993bd2852b3
+SHA-256 5acbdce8ee38ff3bf3153d25cecaa1c6700555dff41b19cd5d6bd36bc88da984 
+
+
 ## Overview
 4K YT Downloader is a powerful and user-friendly application that allows users to download YouTube videos in high quality, including 4K resolution. Built with performance and simplicity in mind, it provides a seamless experience for saving your favorite YouTube content.
 
